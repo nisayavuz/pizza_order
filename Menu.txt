@@ -1,0 +1,15 @@
+         ~~~~PIZZALAR~~~~
+
+1: Klasik..................10$         
+ Kasar peynir, sosis, zeytin ve misir
+
+2: Margarita..................12$
+Domates, mozarella, feslegen, zeytinyagı ve tuz
+
+3: Turk Pizza..................14$
+Kasar peynir, sucuk, biber, pastirma, domates
+
+4: Sade Pizza..................16$
+Kasar peyniri ve domates
+
+----- Ekstralara gecmek icin "e"ye basiniz. -----
